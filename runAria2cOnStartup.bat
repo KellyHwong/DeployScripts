@@ -1,0 +1,1 @@
+aria2c --conf-path="C:\Users\kellyhwong\.aria2\aria2.conf"
